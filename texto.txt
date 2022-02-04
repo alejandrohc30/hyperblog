@@ -1,1 +1,2 @@
-Hola esta es la primera vez que utilizo GIT
+Hola esta es la segunda vez que utilizo GIT
+Este es el commit 2 XD

@@ -1,4 +1,8 @@
 Hola esta es la cuarta vez que utilizo GIT
+
+(Hola esta es la rama1 en la que aparece un futuro alternativo de este documento XD.
+Me estoy preparando para la fusión. DE TAL PALO...)
+
 Este es el commit 2 XD
 Ahora va el commit 3 :)
 Ahora va el commit 4 :v
